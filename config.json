@@ -16,14 +16,14 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "dog of vern",
-    "PREFIX": "/",
+    "BOTNAME": "【𝗚𝗹𝗲𝗻 ➩ 𝗕𝗢𝗧】",
+    "PREFIX": false,
     "ADMINBOT": [
-        "100070577903608"
+        "61571847705492"
          
     ],
     "NDH": [
-        "61564407593797"
+        ""
     ],
     "DATABASE": {
         "sqlite": {
